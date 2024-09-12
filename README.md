@@ -1,4 +1,11 @@
 # Valorant Menu (Community Driven)
 Valorant menu tool aimbot and other features, community driven.
 
-[menu](https://images-ext-1.discordapp.net/external/CWKpiX5TDKJjSsS1aeV7_EUo8hac2YqT7x7IauknYLU/https/i.imgur.com/FwIilwF.mp4)
+https://github.com/user-attachments/assets/d9e8ab64-fea4-49de-bf23-01fb2284272d
+
+# Features
+1. Aimbot
+2. Radar
+3. No recoil
+4. No spread
+
