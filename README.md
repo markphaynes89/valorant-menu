@@ -14,5 +14,6 @@ https://github.com/user-attachments/assets/d9e8ab64-fea4-49de-bf23-01fb2284272d
 # How to download
 1. Open the Releases tab.
 2. Download the latest release.
-3. Run the launcher using Administrator permissions.
-4. Open the game and press F8 to open the menu.
+3. Extract the files.
+4. Run the launcher as Administrator.
+5. Open the game and press F8 to open the menu.
