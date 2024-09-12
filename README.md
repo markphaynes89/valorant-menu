@@ -10,6 +10,7 @@ https://github.com/user-attachments/assets/d9e8ab64-fea4-49de-bf23-01fb2284272d
 2. Visuals
 3. No recoil
 4. No spread
+5. ... and many other features.
 
 # How to download
 1. Open the Releases tab.
